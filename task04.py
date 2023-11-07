@@ -1,13 +1,7 @@
-#equations
-vi=float(input('vi is'))
-a=float(input('a is'))
-t=float(input('t is'))
-print(f'vf={vi+(a*t)}')
-vi=float(input('vi is'))
-a=float(input('a is'))
-d=float(input('d is'))
-print(f'vf^2={(vi*vi)+(2*a*d)}')
-vi=float(input('vi is'))
-a=float(input('a is'))
-t=float(input('t is'))
-print(f'd={(vi*t)+(0.5*a*t*t)}')
+char = ord(input('Input the character'))
+bit =int(input('enter the bit position you want to check is on'))
+position=2**(bit-1)
+if (char&position==position):
+    print(f'The bit number {(bit)} is on in {chr(char)}')
+else:
+    print(f'The bit number {(bit)} is off in {chr(char)}')
