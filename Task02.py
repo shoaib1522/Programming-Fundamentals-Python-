@@ -1,0 +1,1 @@
+print('I am studying in "FCIT" and I am in \'First semester\'')

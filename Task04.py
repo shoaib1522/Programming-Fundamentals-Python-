@@ -1,0 +1,5 @@
+print('\033[1m'+'NAME\tSEMESTER\tGPA'+'\033[0m')
+print('ALI\tSECOND\t\t3.50')
+print('AHMAD\tTHIRD\t\t3.33')
+print('RIZWAN\tFOURTH\t\t3.87')
+print('SADIA\tFIFTH\t\t4.00')

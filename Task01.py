@@ -1,0 +1,1 @@
+print('I am Shoaib.\nMy father name is Naveed.\nI am a stdent of FCIT.\nI am good in programming.\nI want to become a programmer.')

@@ -1,0 +1,13 @@
+#equations
+vi=float(input('vi is'))
+a=float(input('a is'))
+t=float(input('t is'))
+print(f'vf={vi+(a*t)}')
+vi=float(input('vi is'))
+a=float(input('a is'))
+d=float(input('d is'))
+print(f'vf^2={(vi*vi)+(2*a*d)}')
+vi=float(input('vi is'))
+a=float(input('a is'))
+t=float(input('t is'))
+print(f'd={(vi*t)+(0.5*a*t*t)}')

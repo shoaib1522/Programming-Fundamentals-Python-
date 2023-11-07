@@ -1,0 +1,8 @@
+print('\'Shoaib\'')
+print("\"SHOAIB\"")
+print('SHOAIB is a\nnice\tguy')
+print('123456789010\rHELLO')
+print('Shoaibz\bAhmad')
+print('Shoaibzx\b\bAhmad')
+print('Shoaibzxx\b\b\bAhmad')
+print('Shoaibzxcx\b\b\b\bAhmad')

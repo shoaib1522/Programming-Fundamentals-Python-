@@ -1,0 +1,6 @@
+https://thirdspacelearning.com/blog/what-is-bodmas/
+
+https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/
+
+https://www.simplilearn.com/tutorials/python-tutorial/comments-in-python
+https://www.w3schools.com/python/python_comments.asp

@@ -1,0 +1,5 @@
+print('There once was a person named “SHOAIB” who lived in “LAHORE”.',end='') 
+print(' At the age of 18, \'Shoaib\' went to college at "PGC". ',end='')
+print('\'SHOAIB\' graduated and went to work as a "DATA SCIENTIST".',end='')
+print(' Then, \'Shoaib\' adopted an ANIMAL named "ZUMMA". ',end='')
+print('They both lived happily ever after!')
